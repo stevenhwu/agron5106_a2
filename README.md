@@ -1,2 +1,4 @@
-# conf_agron5106_a2
-Private template for Agron5106 A2. Use for GitHub classroom
+# Agron5106 Assignment2
+
+Template repository for assignment 2.
+Use for GitHub classroom.
