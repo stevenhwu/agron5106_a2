@@ -1,0 +1,8 @@
+customer_request <- function(n) {
+    result <- list()
+    result$sum <- n[["y"]] + n[["x"]]
+    result$ratio <- n[["x"]] + n[["y"]]
+    result$difference <- n[["x"]] - n[["y"]]
+    result$product <- n[["x"]] * n[["y"]]
+    return(result)
+}
