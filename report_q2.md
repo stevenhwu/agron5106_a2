@@ -1,9 +1,9 @@
 # Assignment 2 Question 2
 
-## Question 2a
+## Step 2a
 
-## Question 2b
+## Step 2b
 
-## Question 2c
+## Step 2c
 
-## Question 2d
+## Step 2d

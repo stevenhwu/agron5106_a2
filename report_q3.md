@@ -1,11 +1,11 @@
 # Assignment 2 Question 3
 
-## Question 3a
+## Subquestion 3a
 
-## Question 3b
+## Subquestion 3b
 
-## Question 3c
+## Subquestion 3c
 
-## Question 3d
+## Subquestion 3d
 
-## Question 3e
+## Subquestion 3e
